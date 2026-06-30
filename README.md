@@ -31,11 +31,13 @@ I wouldn't call myself an engineer yet. I'm a student learning to listen to sile
 
 ### 🧰 Tools of the Trade
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -44,27 +46,12 @@ I wouldn't call myself an engineer yet. I'm a student learning to listen to sile
 
 ---
 
-### 📊 Numbers That Talk
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vuong-ngo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuong-ngo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+### 📊 Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuong-ngo&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vuong-ngo&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🏆 Footprints Left Behind
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vuong-ngo&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
