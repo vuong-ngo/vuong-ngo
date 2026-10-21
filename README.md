@@ -49,9 +49,9 @@
 <!-- Adaptive Skill Icons (Auto switches background palette between Dark & Light) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,lua,docker,vim&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,lua,docker,vim&theme=light">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,lua,docker,vim&theme=dark" alt="Skill Icons" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,docker,vim&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,docker,vim&theme=light">
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,docker,vim&theme=dark" alt="Skill Icons" />
   </picture>
 </div>
 
