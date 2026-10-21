@@ -18,9 +18,6 @@
     <a href="mailto:vuongngo.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://github.com/vuong-ngo/dotfiles">
-      <img src="https://img.shields.io/badge/Dotfiles-Wayland-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Dotfiles" />
-    </a>
     <!-- Adaptive Eye/Views Counter -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=vuong-ngo&label=%F0%9F%91%81%EF%B8%8F%20Views&color=38bdf8&style=flat-square">
@@ -35,7 +32,7 @@
 
 ### 🪐 About Me
 
-> *I wouldn't call myself an engineer yet. I'm a student learning to listen to silent systems — a hung process, a packet that lost its way, a container that dies without explanation. Every bug is a question, and I'm learning to answer them through a terminal more than through words.*
+> _I wouldn't call myself an engineer yet. I'm a student learning to listen to silent systems — a hung process, a packet that lost its way, a container that dies without explanation. Every bug is a question, and I'm learning to answer them through a terminal more than through words._
 
 - 🎓 Studying **System Engineering** — where stability is built from things you can't see
 - 🛠️ Spending my time on **Linux internals, networking, and infrastructure** — the silent backbone nobody notices until it breaks
@@ -49,9 +46,9 @@
 <!-- Adaptive Skill Icons (Auto switches background palette between Dark & Light) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,docker,vim&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,docker,vim&theme=light">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,cpp,cmake,python,docker,vim&theme=dark" alt="Skill Icons" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bash,cpp,cmake,python,docker,vim&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,bash,cpp,cmake,python,docker,vim&theme=light">
+    <img src="https://skillicons.dev/icons?i=linux,bash,cpp,cmake,python,docker,vim&theme=dark" alt="Skill Icons" />
   </picture>
 </div>
 
