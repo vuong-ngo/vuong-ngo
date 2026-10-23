@@ -18,12 +18,6 @@
     <a href="mailto:vuongngo.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <!-- Adaptive Eye/Views Counter -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=vuong-ngo&label=%F0%9F%91%81%EF%B8%8F%20Views&color=38bdf8&style=flat-square">
-      <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=vuong-ngo&label=%F0%9F%91%81%EF%B8%8F%20Views&color=0284c7&style=flat-square">
-      <img src="https://komarev.com/ghpvc/?username=vuong-ngo&label=%F0%9F%91%81%EF%B8%8F%20Views&color=38bdf8&style=flat-square" alt="Eye Views Counter" />
-    </picture>
   </p>
 
 </div>
