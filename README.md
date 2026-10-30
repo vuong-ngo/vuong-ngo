@@ -65,11 +65,6 @@
 <!-- Stats & Streaks Adaptive Dual View (Switches theme with browser/GitHub mode) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vuong-ngo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vuong-ngo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vuong-ngo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Vuong's GitHub Stats" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vuong-ngo&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vuong-ngo&theme=default&hide_border=true">
     <img height="180em" src="https://streak-stats.demolab.com/?user=vuong-ngo&theme=tokyonight&hide_border=true" alt="Vuong's GitHub Streak" />
